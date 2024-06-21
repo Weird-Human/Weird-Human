@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# There is not much yet in this readme. Will improve on it later
+### There is not much yet in this readme. Will improve on it later
 
 <!--
 **Weird-Human/Weird-Human** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
